@@ -43,7 +43,7 @@ export default function Index() {
       <View style={{ marginVertical: 16 }}>
         <Button 
           title="Reset" 
-          color={'red'}
+          
           onPress={()=> {setNumb(0)}}
         />
       </View>
